@@ -18,6 +18,7 @@ Gender FAQ
 
 *Q:* What is transgender or transvestite?
 
+.. image:: ../images/Transgender_Pride_flag.svg
 
 *Q:* Are transgender people gay?
 
