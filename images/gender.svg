@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400">
+	<title>Interlocking female and male gender symbols licensed under the Creative Commons Attribution-Share Alike 3.0 Unported or GNU Free Documentation License Version 1.2 or any later version published by the Free Software Foundation</title>
+	<style type="text/css">
+.b {stroke:#0321bb}
+.r {stroke:#a72b05}
+.w {stroke:#fff;stroke-width:50;stroke-linecap:butt}
+	</style>
+	<g style="fill:none;stroke-width:40">
+		<use xlink:href="#r_cross" class="w"/>
+		<use xlink:href="#b_arrow" class="w"/>		
+		<g stroke-linecap="round">
+			<use xlink:href="#b_ring_bot" class="w"/>
+			<g class="b">
+				<path id="b_ring_bot" d="     M 314,183     a 87,87 0 0,1 -174,0     "/>
+			</g>
+			<use xlink:href="#r_ring" class="w"/>
+			<g class="r">
+				<path id="r_ring" d="     M 200,183 a 87,87 0 0,1 -174,0     M 26,183 a 87,87 0 0,1 174,0     "/>
+			</g>
+			<use xlink:href="#b_ring_top" class="w"/>
+			<g class="b">
+				<path id="b_ring_top" d="     M 140,183     a 87,87 0 0,1 174,0     "/>
+			</g>
+		</g>
+		<g class="r">
+			<path id="r_cross" d="    M 113,286 V 388    M 49,326 H 176    "/>
+		</g>
+		<g class="b">
+			<path id="b_arrow" d="    M 275,132 C 368,40 368,40 368,40    M 376,130 L 368,38 283,30    "/>
+		</g>
+	</g>
+</svg>
