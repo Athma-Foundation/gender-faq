@@ -1,0 +1,48 @@
+# Site settings
+baseurl = "https://athmafoundation.org/gender/"
+languageCode = "en-US"
+title = "Gender FAQ"
+theme = "hugo-faq-theme"
+watch = true
+buildDrafts = true
+
+# Do not build files for websites. Need them? Set to false
+disableRSS = true
+disableSitemap = true
+disable404 = true
+
+# Menu
+SectionPagesMenu = "main"
+
+	[[menu.main]]
+		name = "Basics"
+		weight = 10
+		url = "#basics"
+	[[menu.main]]
+		name = "Society"
+		weight = 20
+		url = "#society"
+	[[menu.main]]
+		name = "Governments and law"
+		weight = 30
+		url = "#gov_law"
+	[[menu.main]]
+		name = "Challenges"
+		weight = 40
+		url = "#challenges"
+	[[menu.main]]
+		name = "The Future"
+		weight = 50
+		url = "#future"
+	[[menu.main]]
+		name = "International Perspectives"
+		weight = 60
+		url = "#international"
+
+[params]
+	
+	# Custom styling
+	# To customize the styling of this theme, uncomment and edit the following line to point 
+	# to your site's css in the assets/ directory. 
+
+	#custom_css = ["css/blue.css"]

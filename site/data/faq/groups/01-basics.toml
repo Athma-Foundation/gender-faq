@@ -1,0 +1,22 @@
+id = "basics"
+name = "The Basics"
+
+[[items]]
+
+question = "What is gender?"
+answer = "Gender is the set of characteristics that determine whether a person is biologically male, female or intersex. But most often, it represents the characteristics that determine a persons percieved sex in society."
+
+[[items]]
+
+question = "What is gender identity?"
+answer = "While gender usually is the societys perception of a persons sex, gender identity is commonly, the self-identity of a person's own gender. This may be socially accepted or not."
+
+[[items]]
+
+question = "What is assigned sex?"
+answer = "Assigned sex is the sex that is assigned by hospitals or society to a person based on their anatomy. This may or may not match the gender of the person."
+
+[[items]]
+
+question = "Can people choose their gender?"
+answer = "No. Gender is formed around 3 years of age and then stays that way."
